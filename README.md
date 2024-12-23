@@ -39,7 +39,7 @@ Google Spread Sheet に Node.js から書き込みを行うテストファイル
 1. `npm i`
 1. `npm run start`
 1. (これで、スプレッドシートのタイトルがコンソールログに表示され、スプレッドシート内に `Sheet2` という名称のシートが作成されます)
-1. (`src/main.ts` を編集すれば、読み取りや書き込みも可能なはずです: [Details (使われ方のイメージの部分)](https://zenn.dev/nananaoto/articles/e8c0ac181224cd))
+1. (`src/main.ts` を編集すれば、読み取りや書き込みも可能なはずです: [詳細](https://zenn.dev/nananaoto/articles/e8c0ac181224cd#:~:text=%3B%0A%20%20%7D%0A%7D-,%E4%BD%BF%E3%82%8F%E3%82%8C%E6%96%B9%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82,-const%20spreadService%20%3D))
 
 ## 参考
 
